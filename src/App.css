@@ -1,0 +1,19 @@
+.App {
+  max-width: 1200px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.header-add-user {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.modal-new-user-footer {
+  text-align: right;
+  margin-top: 20px;
+}
+
+.field-input-group {
+  margin-bottom: 20px;
+}
